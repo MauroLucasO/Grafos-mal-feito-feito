@@ -1,3 +1,3 @@
 # Notas para olhar
 
-Agora vou só verificar se está correto mas as últimas mudanças foram remover vértice e aresta.
+não está totalmente correto falta arrumar só a importação mas não arrumei até hoje por prequiça
